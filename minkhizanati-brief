@@ -1,0 +1,427 @@
+Min Khizanati
+User Experience & User Stories
+Core Idea
+A marketplace for buying and selling brand 2nd hand clothes and fashion items. The
+app allows users to list, browse, and purchase items easily while offering secure
+payments and delivery options tailored to the Lebanese market.
+Target Audience
+• Individuals looking to buy or sell second-hand fashion at affordable prices.
+• Online shoppers interested in sustainable but good brand clothing options.
+• Thrift shops looking to increase their sales.
+• Small businesses that are looking to expand their online presence.
+Key problems it solves
+• No reliable only clothes marketplace in Lebanon.
+• Convenient delivery options over Lebanon.
+• Encourages Sustainable fashion.
+• Increase awareness on 2nd hand clothing.
+Essential Features
+• User registration:
+- Sign up via email, google, Facebook
+- Account and profile setup with user ratings, bio, location, phone number, email
+address, listed items, order history.
+• Item listing:
+- How to upload
+- We take ur item and upload it for you
+- Upload images/videos
+- Write Description
+1
+- Set price
+- Product category
+- Product Material
+- Product Condition
+- Year purchased
+- Bump item
+- Item location
+- Final summary
+• Product browsing and filtering
+- Search by word
+- Search by picture
+- Search by category
+- Search by color
+- Search by Condition
+- Search by material
+- Search by brand
+- Search by size
+- Sort by location
+- Sort by price
+- Sort by recency
+- Sort by free delivery
+- Sort by relevance
+- Sort by trusted accounts
+- Add to favorites
+- Recommended for user
+- Discounted items
+- High brands
+- Spotlight wardrobe
+2
+- Trusted sellers
+• Product page
+- Title
+- Price
+- Description
+- Shipping fee
+- Size
+- Contact Seller
+- Add to cart
+- Brand
+- Condition
+- Material
+- Location
+- Recency
+- Refund Policy
+- Buyer Guarantee
+- More like this
+• Chat system
+- Secure in-app messaging for more product details
+- Limited chat from buyer
+1. Request a picture button
+2. Ask a question button
+3. Contact support button
+- Seller can attach and send picture or video
+- Seller can type anything
+- When contacting customer support, all accounts can send pictures/videos or
+type anything.
+3
+• Payment and delivery
+- Payment options
+1. Cash on delivery
+2. Whish
+3. OMT
+4. Credit Card
+5. Bob Finance
+- Order Tracking by status
+- Order Summary
+- My orders page
+- My orders product page
+• User Ratings and reviews
+- Buyer rates seller after item bought
+- Buyer product review
+• Point system
+- App gamification to build loyalty
+- 1$ spent = 1 point
+- Different vouchers once 500 points reached
+• Delivery Dashboard
+- Changes delivery status on each item
+1. Order pending
+2. Being picked up
+3. In warehouse
+4. On the Way
+5. Delivered
+• Admin Dashboard
+- Manage users
+- Manage listings
+4
+- Manage transactions
+- Customer Support
+- Promote bumped up listings
+- Promote bumped up users
+- Delivery Tracking
+- Point system rewarding
+- User Analytics
+- Export reports for financial tracking
+- Push notifications and email marketing
+Buyer requirements
+• As a buyer, I want to create my own account using email, google, or Facebook
+and put my own password so that I can sell or buy items.
+• As a buyer, I want to browse items by word search, image search, categories,
+filters, sort by options, so that I can quickly find what I’m looking for.
+• As a buyer, I want to see recommended items based on my interests and previous
+searches so that I can discover new fashion pieces.
+• As a buyer, I want to view most trusted users so that I can know who to buy from
+and get scammed.
+• As a buyer, I want to save items to my favorites so that I can return to them later.
+• As a buyer, I want to chat with sellers so that I can ask questions or request
+pictures or a video.
+• As a buyer, I want to make secure payments through the app so that I don’t have
+to worry about scams.
+• As a buyer, I want to track my order status so that I know when to expect my
+delivery.
+• As a buyer, I want to leave reviews and rate sellers so that I can help others make
+informed decisions.
+• As a buyer, I want a reward point system so that I can be appreciated with free
+vouchers.
+• As a buyer, I want to know more about the company and its policies.
+5
+Seller requirements
+• As a Seller, I want to create my own account using email, google, or Facebook
+and put my own password so that I can sell my items.
+• As a seller, I want to upload photos and details of my items easily so that I can list
+them quickly.
+• As a seller, I want to be able to give you my items and not get worried about listing
+and talking to customers.
+• As a seller, I want to set my own prices and update them later so that I can adjust
+to market demand.
+• As a seller, I want to receive notifications when someone messages or buys my
+item so that I can respond promptly.
+• As a seller, I want to offer discounts on my listings so that I can attract more
+buyers.
+• As a seller, I want to bump my item so that I can attract more customers.
+• As a seller, I want to bump my wardrobe so that I can attract more customers.
+• As a seller, I want to receive my payments securely.
+• As a seller I want to duplicate listing so that I can quickly add products and not
+start from scratch.
+• As a seller, I want to know more about the company and its policies.
+Delivery boy requirements
+• As a delivery boy, I want to change delivery status so that the customers know
+when to expect me.
+• As a delivery boy, I want access to customer phone number so that I can contact
+the customers.
+• As a delivery boy, I want access to customer location so that I can arrive safely
+and on time.
+Admin requirements
+• As an admin, I want to manage user accounts so that I can verify identities and
+remove fake accounts.
+• As an admin, I want to track all transactions so that I can detect fraud or payment
+issues.
+6
+• As an admin, I want to manage featured and promoted listings so that I can
+generate revenue from sellers.
+• As an admin, I want to integrate with delivery partners so that I can offer seamless
+shipping options.
+• As an admin, I want to send push notifications and emails so that I can engage
+users.
+• As an admin, I want to generate reports on user activity and sales so that I can
+analyze business performance.
+• As an admin, I want to handle refund and dispute requests so that I can resolve
+issues between buyers and sellers.
+• As an admin, I want to reply to customer support messages so that I can resolve
+issues with either buyers or sellers.
+User Buyer Stories
+• User Registration:
+- As a new user, I want to register using my email and password so that I can
+create an account and start buying or selling items.
+- Acceptance criteria:
+1. User can register using email and password
+2. System validates email format
+3. User receives a confirmation email after registration
+4. Registration success redirects user to the homepage
+• Item Browsing
+- As a buyer, I want to browse items by word search, image search, categories,
+filters, and sort-by options so that I can quickly find what I’m looking for.
+1. Buyer can search items by keywords
+2. Buyer can upload an image for search
+3. Buyer can filter by categories, price range, condition, size, color, material, brand
+4. Buyer can sort items by relevance, price, newest, location, trusted accounts,
+shipping
+5. Search results update instantly based on filter.
+7
+• Recommended Items
+- As a buyer, I want to see recommended items based on my interests and
+previous searches so that I can discover new fashion pieces.
+1. System tracks buyer’s previous search history
+2. System displays personalized product recommendations
+3. Recommendations are refreshed based on browsing behavior
+4. Buyer can view recommended items in a separate section
+• Trusted Users
+- As a buyer, I want to view most trusted users so that I can know who to buy from
+and avoid getting scammed.
+1. Users can see a “trusted” badge on seller profiles
+2. System calculates trustworthiness based on ratings, reviews, and transaction
+history
+3. Buyers can filter listings to show only trusted users
+• Save to Favorites
+- As a buyer, I want to save items to my favorites so that I can return to them later.
+1. Buyer can click a “save” icon to add items to favorites
+2. Favorites list is accessible from the user profile
+3. Buyer can remove items from favorites
+• Chat with Sellers
+- As a buyer, I want to chat with sellers so that I can ask questions or request
+pictures or videos.
+1. Buyer can send messages to sellers based on specific action buttons requests
+2. System notifies the seller of a new message
+3. Chat history is visible to both buyer and seller
+4. Seller can send messages that include photos, video, or any text
+8
+• Secure Payments
+- As a buyer, I want to make secure payments through the app so that I don’t have
+to worry about scams.
+1. Buyer can select payment method (Cash on delivery, credit card, Whish, Omt,
+Bob Finance)
+2. System encrypts payment details securely
+3. Buyer receives a payment confirmation email
+4. Payment transaction status is visible in the user profile
+• Order Tracking
+- As a buyer, I want to track my order status so that I know when to expect my
+delivery.
+1. Buyer can view the current order status (Order pending, Being picked up, In
+warehouse, On the Way, Delivered)
+2. System sends automatic updates on order status via email and app notifications
+• Leave Reviews & Rate Sellers
+- As a buyer, I want to leave reviews and rate sellers so that I can help others make
+informed decisions.
+1. Buyer can rate a seller on a scale of 1-5 stars
+2. Buyer can write a detailed review of the transaction that can also include
+pictures or videos
+3. Seller’s profile displays the average rating and reviews
+• Reward Points
+- As a buyer, I want a reward point system so that I can be appreciated with free
+vouchers.
+1. Buyer earns points with every purchase (1$=1pt)
+2. Points can be redeemed for vouchers or discounts
+3. System tracks the buyer’s points and redemption history
+4. Buyers receive notifications when points are applicable for redemption
+9
+• Company Information
+- As a buyer, I want to know more about the company and its policies.
+1. Buyer can access a who we are, how we work, job opportunities, customer
+support, how to, privacy policies, terms and conditions, and our social media
+sections.
+2. Dedicated sections that include separate pages with details about the company
+and providing help for new users
+User Seller Stories
+• User Registration:
+- As a new user, I want to register using my email and password so that I can
+create an account and selling items.
+- Acceptance criteria:
+1. User can register using email and password
+2. System validates email format
+3. User receives a confirmation email after registration
+4. Registration success redirects user to the homepage
+• Upload Item Details
+- As a seller, I want to upload photos and details of my items easily so that I can list
+them quickly.
+1. Seller can upload multiple images and videos
+2. Seller has to enter item details (name, description, category, price, condition,
+etc.)
+3. Seller has to enter item location (existing location or new location)
+4. System displays a preview of the listing before posting
+• Item Listing Management
+- As a seller, I want to be able to give my items and not worry about listing or
+talking to customers so that I can focus on other tasks.
+1. Seller can opt-in for a “full-service” listing management option
+2. Admin handles the communication and listing process for the seller
+3. Seller receives notifications when their item sells or needs attention
+10
+• Price Flexibility
+- As a seller, I want to set my own prices and update them later so that I can adjust
+to market demand
+1. Seller can set an initial price for each item
+2. Seller can update the price at any time
+3. System reflects price updates instantly on the listing
+• Seller Notifications
+- As a seller, I want to receive notifications when someone messages or buys my
+item so that I can respond promptly.
+1. Seller receives notifications for messages from buyers
+2. Seller receives notifications for new orders and offers
+3. Seller can adjust notification preferences in the settings
+• Discounts on Listings
+- As a seller, I want to offer discounts on my listings so that I can attract more
+buyers.
+1. Seller can apply a discount to individual items or a group of items
+2. System calculates the discounted price and displays it on the listing
+3. Buyer sees the original price and the discounted price on the item
+• Bump Listings
+- As a seller, I want to bump my item so that I can attract more customers.
+1. Seller can pay a small fee to bump their listing to the top of the search results
+2. Item is moved to the top for a limited period of time
+3. System notifies the seller when the bump expires
+• Bump Wardrobe
+- As a seller, I want to bump my entire wardrobe so that I can attract more
+customers.
+1. Seller can bump all their active listings in one action
+2. All items in the wardrobe are moved to the top for a limited time
+3. Seller is notified when the bump expires
+11
+• Secure Payment for Sellers
+- As a seller, I want to receive my payments securely.
+1. Seller can choose secure payment methods (Cash, Whish)
+2. System ensures payments are processed and securely transferred
+3. Seller receives a payment confirmation and transaction history
+• Duplicate Listing
+- As a seller, I want to duplicate a listing so that I can quickly add products and not
+start from scratch.
+1. Seller can copy an existing listing and update specific details (price, description,
+etc.)
+2. Duplicate item appears as a new listing but retains original details
+3. Seller can easily edit and submit the duplicate listing
+• Company Information
+- As a Seller, I want to know more about the company and its policies.
+1. Seller can access a who we are, how we work, job opportunities, customer
+support, how to, privacy policies, terms and conditions, and our social media
+sections.
+2. Dedicated sections that include separate pages with details about the company
+and providing help for new users
+User Delivery boy Stories
+• Change Delivery Status
+- As a delivery boy, I want to change the delivery status so that customers know
+when to expect me.
+1. Delivery boy can update the status to "on the way," "delivered," etc.
+2. The customer receives real-time notifications when the delivery status changes
+3. Status updates are visible to both the buyer and admin
+12
+• Access Customer Phone Number
+- As a delivery boy, I want access to the customer's phone number so that I can
+contact them in case of issues during delivery.
+1. Delivery boy can view the phone number associated with the delivery
+2. Delivery boy can call or message the customer from his personal number
+3. The phone number is kept private and only accessible by delivery personnel
+during a valid delivery
+• Access Customer Location
+- As a delivery boy, I want access to the customer's location so that I can arrive
+safely and on time.
+1. Delivery boy can view the delivery address and map for navigation
+2. The delivery boy can use google maps for directions
+User Admin Stories
+• Manage User Accounts
+- As an admin, I want to manage user accounts so that I can verify identities and
+remove fake accounts.
+- Admin can view a list of all user accounts
+- Admin can verify user details and documents (e.g., ID, email)
+- Admin can deactivate or remove fake or fraudulent accounts
+- Admin can send notifications to users for account verification requests
+• Track Transactions
+- As an admin, I want to track all transactions so that I can detect fraud or payment
+issues.
+1. Admin can view a complete transaction history (buyer, seller, amount, status)
+2. Admin can filter transactions by status (pending, completed, failed)
+3. Admin can flag suspicious transactions for review
+4. System provides real-time transaction data
+13
+• Manage listings
+- As an admin, I want to quality assure all listings before getting listed
+1. Admin can view and review all new listings submitted by sellers
+2. Admin can approve or reject listings based on quality guidelines (e.g., image
+quality, product description, pricing, etc.)
+3. Admin can request sellers to modify their listings if they do not meet the
+platform's standards
+4. Admin receives a notification when a listing is awaiting approval
+5. Approved listings are published on the platform, while rejected ones are
+returned to sellers with feedback
+6. Admin can flag or remove listings that violate platform policies (e.g., prohibited
+items, inappropriate content)
+• Delivery Options
+- As an admin, I want to decide whether product will be delivered by company’s
+delivery boys or by an outside delivery system
+1. Admin can select the appropriate delivery method based on delivery location
+2. The system automatically notifies the buyer about the selected delivery method
+3. The chosen delivery method is reflected in the order details and tracking system
+• Send Notifications
+- As an admin, I want to send push notifications and emails so that I can engage
+users.
+1. Admin can create and send push notifications to buyers, sellers, or both
+2. Admin can send personalized email notifications
+3. Admin can segment users based on categories (active buyers, old buyers,
+buyers with 500+ points, new sellers, old sellers, trusted sellers)
+4. System allows scheduling of notifications
+• Generate Reports
+- As an admin, I want to generate reports on user activity and sales so that I can
+analyze business performance
+1. Admin can generate reports on sales, revenue, and user engagement
+14
+2. Admin can export reports in various formats (CSV, PDF)
+3. Admin can filter reports by date range, product category, and location
+4. Reports provide detailed insights for business decisions
+• Handle Refunds and Disputes
+- As an admin, I want to handle refund and dispute requests so that I can resolve
+issues between buyers and sellers.
+1. Admin can view and manage refund requests and disputes
+2. Admin can approve or reject refunds based on the system’s policies
+3. Admin can mediate between buyers and sellers for dispute resolution
+4. Admin can log actions taken for each dispute
+• Reply to Customer Support Messages
+- As an admin, I want to reply to customer support messages so that I can resolve
+issues with either buyers or sellers.
+1. Admin can view all incoming customer support requests
+2. Admin can reply to messages from both buyers and sellers
+3. Admin can track the status of each support request
+15
